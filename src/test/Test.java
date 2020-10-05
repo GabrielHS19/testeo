@@ -16,6 +16,7 @@ public class Test {
      */
     public static void main(String[] args) {
         System.out.println("hola jsnj");
+        System.out.println("Version de prueba");
     }
     
 }
